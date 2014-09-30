@@ -2,7 +2,7 @@
 
 This repository contains the draft Style Guide for Data.gov, the home of the U.S. Government’s open data. 
 
-Read the Data.gov Style Guide
+Read the [Data.gov Style Guide](https://github.com/GSA/data.gov-styleguide/blob/gh-pages/index.md)
 
 ## Credits   
 This policy was originally forked from the UK Government Digital Service's [Content Style Guide](https://www.gov.uk/design-principles/style-guide). 

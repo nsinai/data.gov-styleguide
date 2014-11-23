@@ -35,12 +35,13 @@ To keep content understandable, concise, and relevant, it should be:
 * incisive (friendliness can lead to a lack of precision and unnecessary words) – but remain human (not a faceless machine)
 * emotionless – adjectives can be subjective and make the text sound more emotive and like spin
 
-You should:
-
-* use contractions (such as “can’t”)
-* not let caveats dictate unwieldy grammar – say “You can” rather than “You may be able to”
+You SHOULD:
+* use common contractions (such as “can’t”)
 * use the language people are using – use Google Insights to check for terms people search for
-* not use long sentences with complicated sub-clauses
+
+You should AVOID:
+* letting caveats dictate unwieldy grammar – say “You can” rather than “You may be able to”
+* using long sentences with complicated sub-clauses
 * (Note: words ending in –ion and –ment tend to make sentences longer and more complicated than they need to be.)
 
 
